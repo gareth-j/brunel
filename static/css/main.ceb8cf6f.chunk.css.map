@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,UACE,gCAAoC,CACpC,eAAgB,CAChB,iBACF","file":"main.ceb8cf6f.chunk.css","sourcesContent":["\nhtml, body {\n  font-family: 'Questrial', sans-serif;\n  overflow: hidden;\n  position: absolute;\n}\n"]}
