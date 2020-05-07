@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b435ac862b37783e34feb31ffeddfae5",
+    "revision": "cf3df26b8d04b2e0bf82157f77e60c56",
     "url": "/brunel/index.html"
   },
   {
-    "revision": "da0b98b10e0e04eaedc4",
-    "url": "/brunel/static/css/2.35af107f.chunk.css"
+    "revision": "03d9f5c61aeb77ff7f74",
+    "url": "/brunel/static/css/2.a0babc62.chunk.css"
   },
   {
-    "revision": "1efc058ef0dbd94455b1",
-    "url": "/brunel/static/css/3.12757571.chunk.css"
+    "revision": "a13f962dc4fe92f00e45",
+    "url": "/brunel/static/css/3.93789554.chunk.css"
   },
   {
     "revision": "c7aa17772efb45dfab55",
     "url": "/brunel/static/css/4.68c9a3e1.chunk.css"
   },
   {
-    "revision": "7dd34c1758addf2b642c",
-    "url": "/brunel/static/css/main.bf6f8a51.chunk.css"
+    "revision": "ad81a1734a4588c374e4",
+    "url": "/brunel/static/css/main.56f817a2.chunk.css"
   },
   {
-    "revision": "da0b98b10e0e04eaedc4",
-    "url": "/brunel/static/js/2.2009f3a7.chunk.js"
+    "revision": "03d9f5c61aeb77ff7f74",
+    "url": "/brunel/static/js/2.66fe47f8.chunk.js"
   },
   {
-    "revision": "161ab3d76614a20ecfe25fd00e189fdf",
-    "url": "/brunel/static/js/2.2009f3a7.chunk.js.LICENSE.txt"
+    "revision": "d81f9bb460af1e02c7c152648e461fa0",
+    "url": "/brunel/static/js/2.66fe47f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1efc058ef0dbd94455b1",
-    "url": "/brunel/static/js/3.f1afed44.chunk.js"
+    "revision": "a13f962dc4fe92f00e45",
+    "url": "/brunel/static/js/3.a3b52093.chunk.js"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/js/4.02de6c48.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dd34c1758addf2b642c",
+    "revision": "ad81a1734a4588c374e4",
     "url": "/brunel/static/js/main.f8e8f116.chunk.js"
   },
   {
-    "revision": "53974cc378237b76b12b",
-    "url": "/brunel/static/js/runtime-main.19a4dfaa.js"
+    "revision": "79007aea61128aaa7f0e",
+    "url": "/brunel/static/js/runtime-main.6acefbf4.js"
   },
   {
     "revision": "898c32f62d6dc1f8b9267cc34a635ce3",
@@ -56,8 +56,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/media/320px-SS_Great_Britain_transverse_section.7767cb60.jpg"
   },
   {
+    "revision": "234ffaa5742f7fe06585709d4780d935",
+    "url": "/brunel/static/media/Cinzel-Bold.234ffaa5.ttf"
+  },
+  {
     "revision": "946104e0f266e57a765a51eead7e4548",
     "url": "/brunel/static/media/IllustriteZeitung_SS_GreatBritain.946104e0.png"
+  },
+  {
+    "revision": "b3721ba3bde34e5b38b0e1523cccfd7f",
+    "url": "/brunel/static/media/PlayfairDisplay-Regular.b3721ba3.ttf"
+  },
+  {
+    "revision": "6165164d7463f005bbf9db13fc92bac1",
+    "url": "/brunel/static/media/PlayfairDisplay-SemiBold.6165164d.ttf"
+  },
+  {
+    "revision": "c43448c2f851a4af0d0e93dd714bf95b",
+    "url": "/brunel/static/media/PlayfairDisplaySC-Bold.c43448c2.ttf"
+  },
+  {
+    "revision": "c3ec04838a1e59cd69bbeb803a6dfa61",
+    "url": "/brunel/static/media/PlayfairDisplaySC-Regular.c3ec0483.ttf"
   },
   {
     "revision": "68e88d10b7f57e3ab523ee80b778cd1b",
@@ -90,5 +110,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5422321c4f6feed4081891051f9a6b2",
     "url": "/brunel/static/media/editIcon.d5422321.png"
+  },
+  {
+    "revision": "ee48e16dfc01a21f57c5ef24cad1be3e",
+    "url": "/brunel/static/media/ssgb_logo.ee48e16d.png"
   }
 ]);
