@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4245b145df2235beb41fdd9ac2e5ddd",
+    "revision": "debbbc08ee33321b139ed5c5ee72ea45",
     "url": "/brunel/index.html"
   },
   {
-    "revision": "487b8675c9b2016ca6c0",
+    "revision": "e5015bdd9ba39657726f",
     "url": "/brunel/static/css/3.30ac6919.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/js/2.5ffa77d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "487b8675c9b2016ca6c0",
-    "url": "/brunel/static/js/3.e2e26e59.chunk.js"
+    "revision": "e5015bdd9ba39657726f",
+    "url": "/brunel/static/js/3.011b376e.chunk.js"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/js/main.f8e8f116.chunk.js"
   },
   {
-    "revision": "1956b192af9c68b8e665",
-    "url": "/brunel/static/js/runtime-main.40bbe4b7.js"
+    "revision": "f7ca6d3199c251f21a19",
+    "url": "/brunel/static/js/runtime-main.9419759d.js"
   },
   {
     "revision": "898c32f62d6dc1f8b9267cc34a635ce3",
