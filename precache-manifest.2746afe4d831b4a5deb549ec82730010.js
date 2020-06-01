@@ -1,11 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7805cced5c5e547a192f813c632c318f",
+    "revision": "9c5801091116a1e8c1dd5b9e98e833c1",
     "url": "/brunel/index.html"
   },
   {
-    "revision": "db2e5917d3876bb45daf",
-    "url": "/brunel/static/css/3.30af3d5f.chunk.css"
+    "revision": "7cd3079cab8ce961afd8",
+    "url": "/brunel/static/css/2.9e81da96.chunk.css"
+  },
+  {
+    "revision": "1e53f94756a739a34b21",
+    "url": "/brunel/static/css/3.6a204849.chunk.css"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -16,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/css/main.e848410b.chunk.css"
   },
   {
-    "revision": "3d5533585bff6f979041",
-    "url": "/brunel/static/js/2.94c4102d.chunk.js"
+    "revision": "7cd3079cab8ce961afd8",
+    "url": "/brunel/static/js/2.84f29526.chunk.js"
   },
   {
-    "revision": "d81f9bb460af1e02c7c152648e461fa0",
-    "url": "/brunel/static/js/2.94c4102d.chunk.js.LICENSE.txt"
+    "revision": "17089cfb537eefab5618214ef18bc340",
+    "url": "/brunel/static/js/2.84f29526.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db2e5917d3876bb45daf",
-    "url": "/brunel/static/js/3.136d8ffe.chunk.js"
+    "revision": "1e53f94756a739a34b21",
+    "url": "/brunel/static/js/3.9d47557b.chunk.js"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -40,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/js/main.f8e8f116.chunk.js"
   },
   {
-    "revision": "196afa42b90e627b5e99",
-    "url": "/brunel/static/js/runtime-main.309cadfa.js"
+    "revision": "79a14ec295255828665f",
+    "url": "/brunel/static/js/runtime-main.7bf742ab.js"
   },
   {
     "revision": "898c32f62d6dc1f8b9267cc34a635ce3",
@@ -52,12 +56,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/media/320px-SS_Great_Britain_transverse_section.7767cb60.jpg"
   },
   {
+    "revision": "89cc4cbe1e76f9a7f957536b501d62b8",
+    "url": "/brunel/static/media/800px-Gutenberg_Bible.89cc4cbe.jpg"
+  },
+  {
+    "revision": "6240f5ced0bea5067aa679542539a010",
+    "url": "/brunel/static/media/A_Specimen_by_William_Caslon.6240f5ce.jpg"
+  },
+  {
+    "revision": "ee7f061c1e5e157c6a607b53e596458a",
+    "url": "/brunel/static/media/Brunel_letter_GWR.ee7f061c.jpg"
+  },
+  {
     "revision": "234ffaa5742f7fe06585709d4780d935",
     "url": "/brunel/static/media/Cinzel-Bold.234ffaa5.ttf"
   },
   {
+    "revision": "f85d382ea36969ec48effa613cd8a54d",
+    "url": "/brunel/static/media/Great_Western_maiden_voyage.f85d382e.jpg"
+  },
+  {
     "revision": "946104e0f266e57a765a51eead7e4548",
     "url": "/brunel/static/media/IllustriteZeitung_SS_GreatBritain.946104e0.png"
+  },
+  {
+    "revision": "73a0da7cb49ddf09cd1b2cc3ea480059",
+    "url": "/brunel/static/media/Joshua_field.73a0da7c.jpg"
+  },
+  {
+    "revision": "6b6f0053a6811a9381a9fa488ac76cb0",
+    "url": "/brunel/static/media/PlayfairDisplay-Medium.6b6f0053.ttf"
   },
   {
     "revision": "b3721ba3bde34e5b38b0e1523cccfd7f",
@@ -82,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "757d98b83f6ab4af56330b70c92a0019",
     "url": "/brunel/static/media/Sumerian_26th_c_Adab.757d98b8.jpg"
+  },
+  {
+    "revision": "8756970fccd7e08d7beea18ebef2ad2a",
+    "url": "/brunel/static/media/The_Steamer_Great_Western_small.8756970f.jpg"
   },
   {
     "revision": "a1a2d01bcd034270a3bc92176edfb66c",
