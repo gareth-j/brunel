@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad8be9eb81579c8f83e2f863a3cde725",
+    "revision": "dd464781c23dde650aacda0b0329325a",
     "url": "/brunel/index.html"
   },
   {
-    "revision": "7cd3079cab8ce961afd8",
+    "revision": "87ed61dd95cfc45ae279",
     "url": "/brunel/static/css/2.9e81da96.chunk.css"
   },
   {
-    "revision": "2446ebf8c6701d01694f",
-    "url": "/brunel/static/css/3.6a204849.chunk.css"
+    "revision": "352cc44aed1cf4ff7e99",
+    "url": "/brunel/static/css/3.c5c3e6f9.chunk.css"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/css/main.e848410b.chunk.css"
   },
   {
-    "revision": "7cd3079cab8ce961afd8",
-    "url": "/brunel/static/js/2.84f29526.chunk.js"
+    "revision": "87ed61dd95cfc45ae279",
+    "url": "/brunel/static/js/2.cecdacfd.chunk.js"
   },
   {
-    "revision": "17089cfb537eefab5618214ef18bc340",
-    "url": "/brunel/static/js/2.84f29526.chunk.js.LICENSE.txt"
+    "revision": "b0174c1b486777f7c4ed80d23f75d8f2",
+    "url": "/brunel/static/js/2.cecdacfd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2446ebf8c6701d01694f",
-    "url": "/brunel/static/js/3.5cdafe14.chunk.js"
+    "revision": "352cc44aed1cf4ff7e99",
+    "url": "/brunel/static/js/3.2cfe6514.chunk.js"
   },
   {
     "revision": "c7aa17772efb45dfab55",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brunel/static/js/main.f8e8f116.chunk.js"
   },
   {
-    "revision": "727da43c0f2172c72288",
-    "url": "/brunel/static/js/runtime-main.d431a8d8.js"
+    "revision": "bc6b7c93670a66b6cf91",
+    "url": "/brunel/static/js/runtime-main.b76bee7b.js"
   },
   {
     "revision": "898c32f62d6dc1f8b9267cc34a635ce3",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "73a0da7cb49ddf09cd1b2cc3ea480059",
     "url": "/brunel/static/media/Joshua_field.73a0da7c.jpg"
+  },
+  {
+    "revision": "2cc98ebee00fb87618f4e894a3614d77",
+    "url": "/brunel/static/media/PlayfairDisplay-Bold.2cc98ebe.ttf"
   },
   {
     "revision": "6b6f0053a6811a9381a9fa488ac76cb0",
