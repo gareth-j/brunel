@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brunel/precache-manifest.759f39d38dd004a4ec51636e9db4e948.js"
+  "/brunel/precache-manifest.a3f30a8ee08240e0581fdcfb7e1dfd88.js"
 );
 
 self.addEventListener('message', (event) => {
